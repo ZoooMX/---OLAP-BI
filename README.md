@@ -23,3 +23,19 @@
 1. На основе построенной базы данных по схеме "Звезда" с предыдущего урока соберите OLAP куб в Microsoft Analysis Services.
 ##### Выполнение: 
 1. В связи установкой Windows как виртуальную машину на Macbook Все выполнено в скриншлотах [скриншот_1](https://github.com/ZoooMX/---OLAP-BI/blob/main/%D0%A3%D1%80%D0%BE%D0%BA%203.%20OLAP-%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%20%D0%B8%20%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B9/2022-11-02%2017.24.37.jpg), [скриншот_2](https://github.com/ZoooMX/---OLAP-BI/blob/main/%D0%A3%D1%80%D0%BE%D0%BA%203.%20OLAP-%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%20%D0%B8%20%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B9/2022-11-02%2017.25.02.jpg), [скриншот_3](https://github.com/ZoooMX/---OLAP-BI/blob/main/%D0%A3%D1%80%D0%BE%D0%BA%203.%20OLAP-%20%D0%BF%D0%BE%D0%B4%D1%85%D0%BE%D0%B4%20%D0%B8%20%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B9/2022-11-02%2017.25.06.jpg). 
+
+
+## Lesson_4. ETL для многомерной модели данных
+##### Задача: 
+Для базы данных по схеме "Звезда" со второго урока, настройте ETL-процессы между базой данных Adventure Works и вашей базой данных, 
+с использованием промежуточных баз данных stg и ods.
+##### Выполнение: 
+1. Выполнял на виртуальной машине Windows развернутой на Macbook. Собраны БД:
+ – Operational Data Store 
+ – Staging 
+ – Data warehouse
+ 
+ ![image](https://user-images.githubusercontent.com/99000578/227842810-49603088-336e-4ee6-8a0d-c83fd14646d6.png)
+
+
+  
