@@ -35,18 +35,17 @@
 - Staging 
 - Data warehouse
  
- ![image](https://user-images.githubusercontent.com/99000578/227843396-85e21084-1c47-4043-a3bf-aa480000db78.png)
-
+ ![image](https://user-images.githubusercontent.com/99000578/227843750-abe41420-f9ba-4428-b515-78405b6b9572.png)
+ 
 2. Настройка автоматизации работы (джобы)
 
-![image](https://user-images.githubusercontent.com/99000578/227843501-5f5f0f53-66cd-4446-9605-5dcaea3aed78.png)
+![image](https://user-images.githubusercontent.com/99000578/227843863-4a172603-74a1-41c8-a00d-3328176bb7b4.png)
 
 3. Логирование 
-4. 
-![image](https://user-images.githubusercontent.com/99000578/227843556-627d14b9-74ce-454e-ab9d-2791ad345f83.png)
+
+![image](https://user-images.githubusercontent.com/99000578/227843954-d3767b47-e247-4345-a973-2b7ecf9371db.png)
 
 4. Вывод таблицы фактов
 
-![image](https://user-images.githubusercontent.com/99000578/227843611-5c3f80ab-9c29-495d-846d-6a0aaf699d77.png)
-
+![image](https://user-images.githubusercontent.com/99000578/227844036-e529f43c-0f09-480e-af09-1feb8ab798d3.png)
   
