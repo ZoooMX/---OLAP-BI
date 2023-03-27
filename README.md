@@ -31,9 +31,9 @@
 с использованием промежуточных баз данных stg и ods.
 ##### Выполнение: 
 1. Выполнял на виртуальной машине Windows развернутой на Macbook. Собраны БД:
-– Operational Data Store 
-– Staging 
-– Data warehouse
+- Operational Data Store
+- Staging 
+- Data warehouse
  
  ![image](https://user-images.githubusercontent.com/99000578/227842810-49603088-336e-4ee6-8a0d-c83fd14646d6.png)
 
